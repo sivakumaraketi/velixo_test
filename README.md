@@ -1,0 +1,2 @@
+# velixo_test
+ Develop an Excel add-in that:  Uses the Office.js framework  Uses the shared runtime  Uses Typescript  Adds a new custom function, FACTORIALROW, to Microsoft Excel.  The function should be in the TESTVELIXO namespace.  The function accepts a single numeric value N and returns a row of calculated factorials:  [1!, 2!, 3!, ..., N!]  Important: It should not be a comma-separated list of values inside one cell but a spill range of N cells.
